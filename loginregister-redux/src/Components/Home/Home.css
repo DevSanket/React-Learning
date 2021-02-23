@@ -1,0 +1,9 @@
+.home {
+  align-items: center;
+  justify-content: center;
+}
+
+.h1 {
+  height: 50px;
+  width: 100px;
+}
